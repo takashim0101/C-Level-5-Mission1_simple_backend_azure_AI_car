@@ -1,0 +1,252 @@
+[
+    {
+        "id": "00000001",
+        "image": "classified_images/suvs/Buick_Enclave_2011_37_19_280_36_6_79_72_201_16_AWD_7_4_SUV_XnB.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000002",
+        "image": "classified_images/suvs/Jeep_Cherokee_2015_27_17_180_24_4_73_66_182_21_4WD_5_4_SUV_SAK.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000003",
+        "image": "classified_images/suvs/GMC_Terrain_2016_35_18_180_24_4_72_66_185_20_AWD_5_4_SUV_tHS.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000004",
+        "image": "classified_images/suvs/Kia_Telluride_2020_39_18_290_38_6_78_69_196_19_AWD_8_4_SUV_idf.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000005",
+        "image": "classified_images/suvs/Land Rover_Range Rover Evoque_2015_57_20_240_20_4_74_63_171_21_4WD_5_2_SUV_ygi.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000006",
+        "image": "classified_images/suvs/Cadillac_XT5_2017_47_18_310_36_6_75_66_189_18_AWD_5_4_SUV_gcb.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000007",
+        "image": "classified_images/suvs/Nissan_Rogue_2019_26_17_170_25_4_72_68_184_25_AWD_5_4_SUV_vYu.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000008",
+        "image": "classified_images/suvs/Hyundai_Santa Fe_2019_35_19_230_20_4_74_67_187_19_AWD_5_4_SUV_kOh.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000009",
+        "image": "classified_images/suvs/Toyota_4Runner_2017_42_20_270_40_6_75_71_190_17_RWD_5_4_SUV_VTC.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000010",
+        "image": "classified_images/suvs/Honda_Pilot_2016_32_18_280_35_6_78_69_194_19_FWD_8_4_SUV_dom.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000011",
+        "image": "classified_images/suvs/Lincoln_Corsair_2020_44_19_250_20_4_74_64_180_21_AWD_5_4_SUV_rGx.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000012",
+        "image": "classified_images/suvs/Buick_Encore_2013_25_18_130_14_4_69_65_168_23_AWD_5_4_SUV_UVB.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000013",
+        "image": "classified_images/suvs/Audi_Q8_2020_68_20_330_30_6_78_67_196_17_AWD_5_4_SUV_NgP.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000014",
+        "image": "classified_images/suvs/Lincoln_Navigator_2011_57_18_310_54_8_78_78_208_14_RWD_7_4_SUV_PCr.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000015",
+        "image": "classified_images/suvs/BMW_X3_2015_42_18_180_20_4_74_66_183_27_AWD_5_4_SUV_cKX.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000016",
+        "image": "classified_images/suvs/Chevrolet_Suburban_2012_42_17_320_53_8_79_76_nan_15_RWD_9_4_SUV_Nqc.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000017",
+        "image": "classified_images/suvs/Toyota_Sequoia_2012_44_18_310_46_8_79_77_205_13_4WD_8_4_SUV_bkv.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000018",
+        "image": "classified_images/suvs/Jeep_Wrangler_2011_28_18_200_38_6_73_- _152_15_4WD_4_2_SUV_wVv.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000019",
+        "image": "classified_images/suvs/Lincoln_Aviator_2004_40_17_300_46_8_73_70_193_13_RWD_6_4_SUV_Jjc.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000020",
+        "image": "classified_images/suvs/BMW_X3_2011_36_17_240_30_6_74_65_183_19_AWD_5_4_SUV_pkZ.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000021",
+        "image": "classified_images/suvs/Audi_Q5_2013_35_18_210_20_4_74_65_182_20_AWD_5_4_SUV_pdo.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000022",
+        "image": "classified_images/suvs/Toyota_Sequoia_2011_54_20_380_57_8_79_77_205_13_4WD_8_4_SUV_NeP.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000023",
+        "image": "classified_images/suvs/Lincoln_Corsair_2020_44_19_250_20_4_74_64_180_21_AWD_5_4_SUV_pRA.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000024",
+        "image": "classified_images/suvs/Chevrolet_Equinox_2011_24_17_180_24_4_72_66_187_20_AWD_5_4_SUV_IyC.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000025",
+        "image": "classified_images/suvs/Land Rover_Range Rover Sport_2016_71_20_250_30_6_78_70_191_22_4WD_5_4_SUV_ixK.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000026",
+        "image": "classified_images/suvs/Bentley_Bentayga_2017_229_21_600_60_12_78_68_202_12_AWD_5_4_SUV_rzQ.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000027",
+        "image": "classified_images/suvs/Hyundai_Kona Electric_2020_41_17_200_nan_nan_70_61_164_nan_FWD_5_4_SUV_iwW.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000028",
+        "image": "classified_images/suvs/BMW_X6_2016_62_19_300_30_6_78_66_192_18_AWD_5_4_SUV_stN.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000029",
+        "image": "classified_images/suvs/Porsche_Macan_2019_49_18_240_20_4_76_63_184_19_AWD_5_4_SUV_GsU.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000030",
+        "image": "classified_images/suvs/Kia_Niro_2017_25_16_130_16_4_71_60_171_51_FWD_5_4_SUV_qQM.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000031",
+        "image": "classified_images/suvs/Mercedes-Benz_G Class_2011_124_19_500_55_8_73_76_184_11_4WD_5_4_SUV_xey.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000032",
+        "image": "classified_images/suvs/Nissan_Murano_2014_39_20_260_35_6_74_67_189_18_AWD_5_4_SUV_MMl.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000033",
+        "image": "classified_images/suvs/Nissan_Murano_2016_40_20_260_35_6_75_66_192_21_AWD_5_4_SUV_MLo.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000034",
+        "image": "classified_images/suvs/BMW_X3_2015_42_18_180_20_4_74_66_183_27_AWD_5_4_SUV_wSE.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000035",
+        "image": "classified_images/suvs/Dodge_Durango_2011_42_20_290_36_6_75_70_199_16_RWD_7_4_SUV_LBY.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000036",
+        "image": "classified_images/suvs/Toyota_RAV4_2019_33_19_200_25_4_73_68_181_25_AWD_5_4_SUV_tGp.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000037",
+        "image": "classified_images/suvs/INFINITI_QX30_2017_34_18_200_20_4_71_59_174_21_AWD_5_4_SUV_lrY.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000038",
+        "image": "classified_images/suvs/MINI_Cooper Countryman_2015_35_18_200_16_4_70_61_161_25_AWD_5_4_SUV_krf.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000039",
+        "image": "classified_images/suvs/BMW_X6_2012_59_19_300_30_6_78_66_192_16_AWD_4_4_SUV_nbY.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000040",
+        "image": "classified_images/suvs/Chevrolet_Trax_2020_22_16_130_14_4_69_65_167_24_AWD_5_4_SUV_aJq.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000041",
+        "image": "classified_images/suvs/MINI_Cooper Countryman_2019_28_17_130_15_3_71_61_169_22_AWD_5_4_SUV_Upu.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000042",
+        "image": "classified_images/suvs/Audi_Q7_2011_51_19_220_30_6_78_68_200_17_AWD_7_4_SUV_PHg.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000043",
+        "image": "classified_images/suvs/Audi_Q5_2014_37_18_220_20_4_74_65_182_20_AWD_5_4_SUV_PPg.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000044",
+        "image": "classified_images/suvs/Toyota_Highlander_2012_30_17_270_35_6_75_68_188_17_4WD_7_4_SUV_kpB.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000045",
+        "image": "classified_images/suvs/Mitsubishi_Outlander_2019_26_18_160_24_4_71_66_184_24_4WD_7_4_SUV_MsT.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000046",
+        "image": "classified_images/suvs/Lexus_NX_2017_39_17_190_25_4_73_64_182_33_AWD_5_4_SUV_EBi.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000047",
+        "image": "classified_images/suvs/Mazda_CX-9_2016_41_20_220_25_4_77_67_199_21_AWD_7_4_SUV_BoT.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000048",
+        "image": "classified_images/suvs/Audi_Q8_2019_67_20_330_30_6_78_67_196_17_AWD_5_4_SUV_cMT.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000049",
+        "image": "classified_images/suvs/Volkswagen_Atlas_2019_30_18_230_20_4_78_70_198_22_FWD_7_4_SUV_yOr.jpg",
+        "vehicle_type": "suv"
+    },
+    {
+        "id": "00000050",
+        "image": "classified_images/suvs/Mercedes-Benz_G Class_2017_141_20_560_55_8_76_76_187_12_AWD_5_4_SUV_qFT.jpg",
+        "vehicle_type": "suv"
+    }
+]
